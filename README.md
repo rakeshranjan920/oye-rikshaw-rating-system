@@ -1,4 +1,4 @@
-# oye-rickshaw-rating-system
+# Cab-rating-system
 
 To run 
 
